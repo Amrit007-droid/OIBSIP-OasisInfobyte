@@ -6,7 +6,7 @@ OVERVEW : This repository hosts a data science project focused on examining the 
 
 PROJECT INTRODUCTION : The primary objective of this project is to analyze the unemployment rate during the Covid-19 pandemic. The project will involve collecting relevant data, cleaning and preprocessing the data, conducting exploratory data analysis (EDA) 
 
-*REQUIREMENTS - To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
+REQUIREMENTS - To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
 Python (version 3.6 or higher)
 Jupyter Notebook or JupyterLab
 Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)
