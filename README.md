@@ -10,3 +10,12 @@ REQUIREMENTS - To run the notebooks and reproduce the analysis, ensure you have 
 Python (version 3.6 or higher)
 Jupyter Notebook or JupyterLab
 Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)
+
+TASK 2 :  CAR PRICE PREDICTION WITH MACHINE LEARNING
+
+PROJECT INTRODUCTION: Predicting the price of cars based on a wide range of attributes and features. Using a dataset containing car details such as safety ratings, dimensions, engine specifications, and more, we aim to develop a machine learning model that accurately estimates the price of different car models.
+
+REQUIREMENTS: To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
+Python (version 3.6 or higher)
+Jupyter Notebook or JupyterLab
+Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn, sklearn etc.)
